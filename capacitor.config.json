@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.agrodiag",
+  "appName": "AgroDiag",
+  "webDir": "frontend/build",
+  "bundledWebRuntime": false
+}
